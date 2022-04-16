@@ -9,10 +9,10 @@ This project contains pre-computed wordlists which can be used for:
 This project has the following layout:
 ```
 name/                  Wordlists of English words and approximately-English words that can be made using Urbit phonemes
-  approx-double.txt    Phoneme pairs forming two approximately-English words (e.g. )
-  approx-single.txt    Phoneme pairs forming one approximately-English word (e.g. )
-  english-double.txt   Phoneme pairs forming two English words (e.g. )
-  english-single.txt   Phoneme pairs forming one English word (e.g. )
+  approx-double.txt    Phoneme pairs forming two approximately-English words (e.g. bacfed, dispen, datrum, etc.)
+  approx-single.txt    Phoneme pairs forming one approximately-English word (e.g. littel, sampel, bacfyr, etc.)
+  english-double.txt   Phoneme pairs forming two English words (e.g. barwet, postem, winbet, etc.)
+  english-single.txt   Phoneme pairs forming one English word (e.g. barrel, ladder, master, etc.)
   scrabble.txt         Phoneme pairs forming six-letter long words that would be accepted in a game of Scrabble (e.g. )
 sigil/                 Wordlists of planets with noteworthy sigils
   any/                 Each file within this directory contains all planets with sigils of a particular form
