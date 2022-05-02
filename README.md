@@ -23,7 +23,8 @@ sigil/                 Wordlists of planets with noteworthy sigils
     orbs.txt           Sigils where each quadrant has a circle shape
     pills.txt          Sigils forming two stacked, horizontal pills
     square.txt         Sigils forming a square
-    star.txt           Sigils forming a star shape out of negative space
+    star-circle.txt    Sigils forming a star shape out of negative space (circular positive space)
+    star-square.txt    Sigils forming a star shape out of negative space (square positive space)
   lines/               Each file within this directory contains all planets with sigils of a particular form that have matching lines
     circle.txt         Sigils forming a circle with matching lines
     pills.txt          Sigils forming two stacked, horizontal pills with matching lines
@@ -45,7 +46,8 @@ Below are links to example sigils demonstrating each of the shapes described abo
 - [Pizza](https://urbit.live/rablus-tacryp)
 - [Square](https://urbit.live/binben-dinsut)
 - [Square (matching lines)](https://urbit.live/hinneb-pinmeb)
-- [Star](https://urbit.live/fadryl-micrep)
+- [Star (circle)](https://urbit.live/doctyd-litdel)
+- [Star (square)](https://urbit.live/fadryl-micrep)
 
 ## Recommended Usage
 
