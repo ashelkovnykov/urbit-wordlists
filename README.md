@@ -13,7 +13,7 @@ name/                  Wordlists of English words and approximately-English word
   approx-single.txt    Phoneme pairs forming one approximately-English word (e.g. littel, sampel, bacfyr, etc.)
   english-double.txt   Phoneme pairs forming two English words (e.g. barwet, postem, winbet, etc.)
   english-single.txt   Phoneme pairs forming one English word (e.g. barrel, ladder, master, etc.)
-  scrabble.txt         Phoneme pairs forming six-letter long words that would be accepted in a game of Scrabble (e.g. )
+  scrabble.txt         Phoneme pairs forming six-letter long words that would be accepted in a game of Scrabble (e.g. darnex, nardus, tasser, etc.)
 sigil/                 Wordlists of planets with noteworthy sigils
   any/                 Each file within this directory contains all planets with sigils of a particular form
     chesire.txt        Sigils forming a Chesire Cat grin
@@ -35,19 +35,19 @@ sigil/                 Wordlists of planets with noteworthy sigils
 ## Sigil Examples
 
 Below are links to example sigils demonstrating each of the shapes described above:
-- [Chesire Cat Grin](https://urbit.live/ralbel-ridnym)
-- [Circle](https://urbit.live/bonbec-doslux)
-- [Circle (matching lines)](https://urbit.live/bonpyl-natryg)
-- [Flower](https://urbit.live/bitmyr-hallyd)
-- [Hills](https://urbit.live/tobtun-nimfun)
-- [Orbs](https://urbit.live/barbet-boldul)
-- [Pills](https://urbit.live/bilber-bordev)
-- [Pills (matching lines)](https://urbit.live/bordun-sorlex)
-- [Pizza](https://urbit.live/rablus-tacryp)
-- [Square](https://urbit.live/binben-dinsut)
-- [Square (matching lines)](https://urbit.live/hinneb-pinmeb)
-- [Star (circle)](https://urbit.live/doctyd-litdel)
-- [Star (square)](https://urbit.live/fadryl-micrep)
+- [Chesire Cat Grin](https://network.urbit.org/~ralbel-ridnym)
+- [Circle](https://network.urbit.org/~bonbec-doslux)
+- [Circle (matching lines)](https://network.urbit.org/~bonpyl-natryg)
+- [Flower](https://network.urbit.org/~bitmyr-hallyd)
+- [Hills](https://network.urbit.org/~tobtun-nimfun)
+- [Orbs](https://network.urbit.org/~barbet-boldul)
+- [Pills](https://network.urbit.org/~bilber-bordev)
+- [Pills (matching lines)](https://network.urbit.org/~bordun-sorlex)
+- [Pizza](https://network.urbit.org/~rablus-tacryp)
+- [Square](https://network.urbit.org/~binben-dinsut)
+- [Square (matching lines)](https://network.urbit.org/~hinneb-pinmeb)
+- [Star (circle)](https://network.urbit.org/~doctyd-litdel)
+- [Star (square)](https://network.urbit.org/~fadryl-micrep)
 
 ## Recommended Usage
 
