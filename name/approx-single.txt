@@ -134,6 +134,7 @@ halfes
 handel
 hander
 hansel
+hansem
 hansen
 haptyc
 harbur
