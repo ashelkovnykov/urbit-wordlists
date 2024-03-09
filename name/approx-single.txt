@@ -60,6 +60,7 @@ bolden
 boldur
 bondes
 bonhus
+bonner
 bonnyt
 bordur
 borred
@@ -260,4 +261,3 @@ wisdem
 witnus
 worrys
 worser
-
